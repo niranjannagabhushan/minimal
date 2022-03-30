@@ -1,12 +1,21 @@
 # Data Science And Machine Learning Portfolio
 
-A Digital Portfolio of all my Projects related to DS & ML
+A Digital Portfolio for all my Projects related to DS & ML
 
 ## Falcon9-Landing-Prediction
 
 I have predicted, if the Falcon 9 first stage will land successfully or not using several Machine Learning Models. SpaceX advetises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. This informtion can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/niranjannagabhushan/Falcon9-Landing-Prediction
+)
+
+## Stock Market Prediction
+
+Stock Market Prediction using Numerical and Textual Analysis
+
+Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines. Stock to analyze and predict SENSEX (S&P BSE SENSEX) Download historical stock prices from finance.yahoo.com Download textual (news) data from https://bit.ly/36fFPI6 Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/niranjannagabhushan/Stock-Market-Prediction
 )
 
 
