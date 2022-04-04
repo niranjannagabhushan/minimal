@@ -18,7 +18,7 @@ Create a hybrid model for stock price/performance prediction using numerical ana
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/niranjannagabhushan/Stock-Market-Prediction
 )
 
-## LendingClubCaseStudy
+## Lending Club Case Study
 
 The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. through Exploratory Data Analysis (EDA) . Thus, we have to understand how consumer attributes and loan attributes influence the tendency of default.
 
