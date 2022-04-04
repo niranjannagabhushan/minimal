@@ -19,7 +19,8 @@ Create a hybrid model for stock price/performance prediction using numerical ana
 
 The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. through Exploratory Data Analysis (EDA) . Thus, we have to understand how consumer attributes and loan attributes influence the tendency of default.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://https://github.com/niranjannagabhushan/LendingClubCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/niranjannagabhushan/LendingClubCaseStudy)
+
 
 ## SparksFoundationDS-BA
 Contains Notebooks Of Sparks Foundation Internship Tasks The Sparks Foundation Tasks This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
