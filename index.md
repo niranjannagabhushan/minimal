@@ -22,6 +22,11 @@ The aim is to identify patterns which indicate if a person is likely to default,
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/niranjannagabhushan/LendingClubCaseStudy)
 
 
+## Analyzing the 2021 Abu Dhabi Grand Prix with the Fast F1 library
+Accessing Formula -1 Race's historical data using Python. As mentioned earlier, the F1 race weekends generate a lot of data. Every car has 150 to 300 sensors on average, with the engine alone having close to 50 sensors. It is estimated that around 300GB of data per car is generated each Grand Prix weekend. This mind-boggling data contains immense valuable information. Careful analysis of this data can provide a competitive advantage to teams over others even before the car hits the track. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/niranjannagabhushan/F1-Data-Analysis)
+
 ## SparksFoundationDS-BA
 Contains Notebooks Of Sparks Foundation Internship Tasks The Sparks Foundation Tasks This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 Internship Category - Data Science and Business Analytics Internship Duration - 1 Month ( October-2020 ) Internship Type - Work from Home In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
