@@ -13,7 +13,7 @@ I have predicted, if the Falcon 9 first stage will land successfully or not usin
 Stock Market Prediction using Numerical and Textual Analysis
 Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines. Stock to analyze and predict SENSEX (S&P BSE SENSEX) Download historical stock prices from finance.yahoo.com Download textual (news) data from https://bit.ly/36fFPI6 Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/niranjannagabhushan/Stock-Market-Prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/niranjannagabhushan/Stock-Prediction)
 
 ## Lending Club Case Study
 
